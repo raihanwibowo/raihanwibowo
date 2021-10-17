@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raihanwibowo
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning in Informatics Engineering Telkom University
-- 💞️ I’m looking to collaborate on Data Analytics
+- 💞️ I’m looking to collaborate on Analysis Data
 - 📫 How to reach me raihan.wibowo@gmail.com
 
 <!---
