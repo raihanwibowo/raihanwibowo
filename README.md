@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raihanwibowo
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning in Informatics Engineering Telkom University
+- 🌱 I’m currently Working and Learning in Klik Digital Sinergi as Finterlabs Data Engineer
 - 💞️ I’m looking to collaborate on Analysis Data
 - 📫 How to reach me raihan.wibowo@gmail.com
 
